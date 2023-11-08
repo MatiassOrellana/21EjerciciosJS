@@ -1,0 +1,22 @@
+.raton{
+    background-color: white; 
+    padding: 10px;
+}
+
+.teclado{
+    background-color: white; 
+    padding: 10px;
+}
+
+.box {
+    width: 160px;
+    height: 160px;
+    border: thin solid silver;
+    padding: .5em;
+    float: left;
+    margin-right: 15px;
+  }
+
+  body {
+    font-family: arial, helvetica;
+  }
